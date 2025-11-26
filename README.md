@@ -18,6 +18,8 @@ Um sistema básico de tela de morte para o SA:MP.
 2. Adicione os arquivos do sistema de morte ao seu projeto.
 3. Compile e execute o servidor.
 
+--
+
 > \[!IMPORTANT]
 >
 > * O sistema não possui salvamento de dados.
