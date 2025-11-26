@@ -1,4 +1,4 @@
-# Sistema de Morte (SA:MP)
+# 🫧Sistema de Morte (SA:MP)
 
 Um sistema básico de tela de morte para o SA:MP.
 
@@ -18,7 +18,7 @@ Um sistema básico de tela de morte para o SA:MP.
 2. Adicione os arquivos do sistema de morte ao seu projeto.
 3. Compile e execute o servidor.
 
-## Observações:
-
-* O sistema não possui salvamento de dados.
-* O sistema foi feito utilizando o easyDialog.
+> \[!IMPORTANT]
+>
+> * O sistema não possui salvamento de dados.
+> * O sistema foi feito utilizando o easyDialog.
