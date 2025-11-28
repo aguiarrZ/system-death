@@ -4,7 +4,7 @@
 
 </div>
 
-Um sistema básico de **tela de morte** para SA:MP, ideal como base para sistemas de médico e reanimação.
+**-** Um sistema básico de **tela de morte** para SA:MP, ideal como base para sistemas de médico e reanimação.
 
 ---
 
