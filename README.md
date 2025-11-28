@@ -36,3 +36,13 @@
 >
 > * O sistema **não possui salvamento de dados**.
 > * Desenvolvido utilizando o **easyDialog**.
+
+---
+
+## 👀 Visual do Sistema
+
+<div align="center">
+<img src="screenshots/sa-mp-031.png" alt="Preview do Sistema" width="400"/>
+<img src="screenshots/sa-mp-032.png" alt="Preview do Sistema" width="400"/>
+</div>
+
