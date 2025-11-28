@@ -1,26 +1,38 @@
-# 🫧Sistema de Morte (SA:MP)
+<div align="center">
 
-Um sistema básico de tela de morte para o SA:MP.
+# 🫧 Sistema de Morte – SA-MP
 
-## Comandos:
+</div>
 
-* `/morrer`: Faz o jogador se auto-matar e testa o sistema.
-* `/feridos`: Mostra jogadores feridos e permite marcar a localização do jogador no mapa (base para sistema de médico).
-* `/reanimar`: Reanima jogadores feridos (base para sistema de médico).
+Um sistema básico de **tela de morte** para SA:MP, ideal como base para sistemas de médico e reanimação.
 
-## Requisitos:
+---
 
-* easyDialog (https://github.com/Awsomedude/easyDialog)
+## 📜 Comandos
 
-## Instalação:
+| Comando     | Descrição                                                        |
+| ----------- | ---------------------------------------------------------------- |
+| `/morrer`   | Faz o jogador se auto-matar e testa o sistema.                   |
+| `/feridos`  | Mostra jogadores feridos e permite marcar a localização no mapa. |
+| `/reanimar` | Reanima jogadores feridos (base para sistema de médico).         |
 
-1. Baixe o easyDialog e adicione ao seu projeto.
-2. Adicione os arquivos do sistema de morte ao seu projeto.
+---
+
+## ⚙️ Requisitos
+
+* [easyDialog](https://github.com/Awsomedude/easyDialog)
+
+---
+
+## 🛠️ Instalação
+
+1. Baixe o **easyDialog** e adicione ao seu projeto.
+2. Adicione os arquivos do **Sistema de Morte** ao seu projeto.
 3. Compile e execute o servidor.
 
---
+---
 
-> \[!IMPORTANT]
+> [!IMPORTANT]
 >
-> * O sistema não possui salvamento de dados.
-> * O sistema foi feito utilizando o easyDialog.
+> * O sistema **não possui salvamento de dados**.
+> * Desenvolvido utilizando o **easyDialog**.
