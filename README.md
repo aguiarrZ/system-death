@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9A84F1&height=120&section=header"/>
 
+
+
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A84F1&size=35&center=true&vCenter=true&width=1000&lines=Sistema+de+Morte!;Sistema+de+Morte;Sistema+de+Morte!)](https://git.io/typing-svg)
 
 # 🫧 Sistema de Morte – SA-MP
 
