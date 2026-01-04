@@ -30,9 +30,6 @@ new PlayerText:__deathScreen[MAX_PLAYERS][16];
 forward updateDeath(playerid);
 forward reanimatingPlayer(playerid, otherid);
 
-main(){}
-
-
 /*
                                                    ooooooooo.   ooooo     ooo oooooooooo.  ooooo        ooooo   .oooooo.    .oooooo..o 
                                                    `888   `Y88. `888'     `8' `888'   `Y8b `888'        `888'  d8P'  `Y8b  d8P'    `Y8 
@@ -42,6 +39,18 @@ main(){}
                                                     888          `88.    .8'   888    .88P  888       o  888  `88b    ooo  oo     .d8P 
                                                    o888o           `YbodP'    o888bood8P'  o888ooooood8 o888o  `Y8bood8P'  8""88888P'  
 */
+
+public OnFilterScriptInit()
+{
+    print("[System:Death] Sistema de morte carregado (FilterScript)");
+    return true;
+}
+
+public OnFilterScriptExit()
+{
+    print(""[System:Death] Sistema de morte descarregado (FilterScript)");
+    return true;
+}
 
 public OnPlayerConnect(playerid)
 {
